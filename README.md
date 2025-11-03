@@ -5,4 +5,3 @@ harvest height	harvest height	harvest height
 short (cm)	13	17
 medium (cm)	25	32
 tall (cm)	38	45
-<img width="315" height="81" alt="image" src="https://github.com/user-attachments/assets/4466b9dd-ad3b-46d1-ae2b-179e64c754e6" />
